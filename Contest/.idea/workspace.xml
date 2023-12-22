@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75277788-4909-4ae1-b970-70c0a0d1e7dd" name="Changes" comment="mapping5" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="Deepan" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Deepan Rajaram &lt;rajaram.deepan@divum.in&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="grace" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2WZStuRMblBNTnqQWSQ5xhWlKJQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "grace",
+    "last_opened_file_path": "/home/divum/intellij-workspace/demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ContestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Contest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hiringplatform.Contest.ContestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75277788-4909-4ae1-b970-70c0a0d1e7dd" name="Changes" comment="" />
+      <created>1696938828837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696938828837</updated>
+      <workItem from="1696938832686" duration="15811000" />
+      <workItem from="1696992169009" duration="1702000" />
+      <workItem from="1696996655486" duration="8538000" />
+      <workItem from="1697005990024" duration="23394000" />
+      <workItem from="1697033890703" duration="733000" />
+      <workItem from="1697036842495" duration="889000" />
+      <workItem from="1697044048183" duration="3311000" />
+      <workItem from="1697070157118" duration="4334000" />
+      <workItem from="1697083308796" duration="37395000" />
+      <workItem from="1697126331976" duration="1392000" />
+      <workItem from="1697170037104" duration="7335000" />
+      <workItem from="1697177760832" duration="20912000" />
+    </task>
+    <task id="LOCAL-00001" summary="Basic springboot project">
+      <option name="closed" value="true" />
+      <created>1696956592050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696956592050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mapping">
+      <option name="closed" value="true" />
+      <created>1696997188447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696997188447</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mapping">
+      <option name="closed" value="true" />
+      <created>1696997666396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696997666396</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mapping1">
+      <option name="closed" value="true" />
+      <created>1697085444922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697085444922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mapping2">
+      <option name="closed" value="true" />
+      <created>1697087026548</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697087026548</updated>
+    </task>
+    <task id="LOCAL-00006" summary="mapping3">
+      <option name="closed" value="true" />
+      <created>1697106507924</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697106507924</updated>
+    </task>
+    <task id="LOCAL-00007" summary="mapping3">
+      <option name="closed" value="true" />
+      <created>1697106763075</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697106763075</updated>
+    </task>
+    <task id="LOCAL-00008" summary="mapping4">
+      <option name="closed" value="true" />
+      <created>1697113948214</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697113948214</updated>
+    </task>
+    <task id="LOCAL-00009" summary="mapping5">
+      <option name="closed" value="true" />
+      <created>1697127071278</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697127071278</updated>
+    </task>
+    <task id="LOCAL-00010" summary="mapping5">
+      <option name="closed" value="true" />
+      <created>1697202001374</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697202001374</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="model done" />
+    <MESSAGE value="Basic springboot project" />
+    <MESSAGE value="mapping" />
+    <MESSAGE value="mapping1" />
+    <MESSAGE value="mapping2" />
+    <MESSAGE value="mapping3" />
+    <MESSAGE value="mapping4" />
+    <MESSAGE value="mapping5" />
+    <option name="LAST_COMMIT_MESSAGE" value="mapping5" />
+  </component>
+</project>
